@@ -92,7 +92,7 @@
 		            	<li class="d-flex"><span>Name:</span> <span>Diego Monge</span></li>
 		            	<li class="d-flex"><span>Date of birth:</span> <span>September 21, 1997</span></li>
 		            	<li class="d-flex"><span>Address:</span> <span>San Salvador, El Salvador</span></li>
-		            	<li class="d-flex"><span>Email:</span> <span>diegomonge21@gmail.com</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>mongesdesign@gmail.com</span></li>
 		            </ul>
 		          </div>
 		        </div>
@@ -233,7 +233,7 @@
 
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-4 p-md-5 contact-form">
+            <form action="https://formsubmit.co/mongesdesign@gmail.com" class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
               </div>
