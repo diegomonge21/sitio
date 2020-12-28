@@ -233,7 +233,7 @@
 
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="https://formsubmit.co/mongesdesign@gmail.com" class="bg-light p-4 p-md-5 contact-form">
+            <form action="https://formsubmit.co/mongesdesign@gmail.com"method="POST"> class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
               </div>
