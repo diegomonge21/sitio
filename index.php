@@ -231,14 +231,19 @@
           </div>
         </div>
 
-		
-		<div class="row no-gutters block-9">
-          <div class="col-md-7 heading-section text-center ftco-animate">
+        <div class="row no-gutters block-9">
+          <div class="col-md-6 order-md-last d-flex">
 		  <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
                 <li class="ftco-animate"><a href="https://www.instagram.com/monge.design/" target="_blank"><span class="icon-instagram"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.behance.net/mongedesign" target="_blank"><span class="icon-behance"></span></a></li>
               </ul>
-		 </div>
+          
+          </div>
+
+       
+    </section>
+		
+
     <footer class="ftco-footer ftco-section">
       <div class="container">
         <div class="row mb-5">
