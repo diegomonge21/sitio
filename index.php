@@ -80,14 +80,15 @@
 	    				</div>
     				</div>
     			</div>
+				
     			<div class="col-md-6 col-lg-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<h1 class="big">About</h1>
 		            <h2 class="mb-4">About Me</h2>
-		            <p>I'm a 23 year old young man born in the country of El Salvador. I'm passionate for the audiovisual 
-						graphic world, in order to show attractive and creative messages. I also like to capture moments through the lens of 
-						the camera. I consider myself a self-teaching, responsible and proactive person.</p>
+		            <p>I am a Graphic Designer, Photographer, and Video Editor. I also love expressing myself by making 
+					animations where people can get a message for their lives. Capture moments through the lens of the 
+					camera is one of the things I like to do.  I stand out for my passion in everything that I do.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Diego Monge</span></li>
 		            	<li class="d-flex"><span>Date of birth:</span> <span>September 21, 1997</span></li>
