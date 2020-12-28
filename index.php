@@ -223,7 +223,7 @@
 
     <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
       <div class="container">
-      	<div class="row justify-content-center mb-5 pb-3">
+      	<div class="row justify-content-center pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h2 class="mb-4">Contact Me</h2>
             <p>If you want to know more, please contact me.</p>
@@ -250,11 +250,10 @@
               
             </div>
           </div>
-
-        </div>
+		</div>
+		
         <div class="row">
           <div class="col-md-12 text-center">
-
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
   Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved 
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
