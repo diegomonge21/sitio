@@ -244,8 +244,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              
+            <div class="ftco-footer-widget mb-4">            
             </div>
           </div>
 		</div>
