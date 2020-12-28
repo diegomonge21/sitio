@@ -236,24 +236,7 @@
 		  <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
                 <li class="ftco-animate"><a href="https://www.instagram.com/monge.design/" target="_blank"><span class="icon-instagram"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.behance.net/mongedesign" target="_blank"><span class="icon-behance"></span></a></li>
-        	</ul>
-            <form action="https://formsubmit.co/mongesdesign@gmail.com"method="POST" class="bg-light p-4 p-md-5 contact-form">
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
-              </div>
-              <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-              </div>
-              <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
+        	</ul>       
           
           </div>
 
