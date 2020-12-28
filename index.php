@@ -225,14 +225,13 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-            <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Contact Me</h2>
             <p>If you want to know more, please contact me.</p>
           </div>
         </div>
 
-        <div class="row no-gutters block-9">
-          <div class="row justify-content-center order-md-last d-flex">
+        <div class="row justify-content-center no-gutters block-9">
+          <div class="row order-md-last d-flex">
 		  <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
                 <li class="ftco-animate"><a href="https://www.instagram.com/monge.design/" target="_blank"><span class="icon-instagram"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.behance.net/mongedesign" target="_blank"><span class="icon-behance"></span></a></li>
