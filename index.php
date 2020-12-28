@@ -241,6 +241,14 @@
     </section>
 		
     <footer class="ftco-footer ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              
+            </div>
+          </div>
+		</div>
 		
         <div class="row">
           <div class="col-md-12 text-center">
