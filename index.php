@@ -234,6 +234,7 @@
         <div class="row justify-content-center no-gutters block-9">
           <div class="row order-md-last d-flex">
 		  <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
+		  		<li class="ftco-animate"><a href="https://www.linkedin.com/in/mongedesign/" target="_blank"><span class="icon-linkedin"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.instagram.com/monge.design/" target="_blank"><span class="icon-instagram"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.behance.net/mongedesign" target="_blank"><span class="icon-behance"></span></a></li>
               </ul>
