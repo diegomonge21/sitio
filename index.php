@@ -147,7 +147,12 @@
 					    <div class="resume-wrap d-flex ftco-animate">
 					    	<div class="icon d-flex align-items-center justify-content-center">
 					    		<span class="flaticon-ideas"></span>
-					    	</div>
+					    	</div>.
+							<div class="text pl-3">
+		    					<span class="date">Enero 4-Abril 4/2021</span>
+		    					<h2>Pasante Multimedia Designer</h2>
+		    					<span class="position">Elaniin/Mercandú</span>
+		    				</div>
 					    	<div class="text pl-3">
 		    					<span class="date">2018-2020</span>
 		    					<h2>Video Editor & Photographer</h2>
