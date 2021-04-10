@@ -144,16 +144,16 @@
 
 					  <div id="page-2" class= "page two">
 					  	<h2 class="heading">Experience</h2>
-					    <div class="resume-wrap d-flex ftco-animate">
-					    	<div class="icon d-flex align-items-center justify-content-center">
+						  <div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
 					    		<span class="flaticon-ideas"></span>
-					    	
-							<div class="text pl-3">
+					    	</div>
+					    	<div class="text pl-3">
 		    					<span class="date">Enero 4-Abril 4/2021</span>
 		    					<h2>Pasante Multimedia Designer</h2>
 		    					<span class="position">Elaniin/Mercandú</span>
 		    				</div>
-						</div>
+	    				</div>
 							<div class="resume-wrap d-flex ftco-animate">
 	    					<div class="icon d-flex align-items-center justify-content-center">
 					    		<span class="flaticon-ideas"></span>
