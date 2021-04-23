@@ -86,7 +86,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<h1 class="big">About</h1>
 		            <h2 class="mb-4">About Me</h2>
-		            <p>I am a Graphic Designer, Photographer, and Video Editor. I also love expressing myself by making 
+		            <p>I am a Graphic & Motion Designer. I also love expressing myself by making 
 					animations where people can get a message for their lives. Capture moments through the lens of the 
 					camera is one of the things I like to do.  I stand out for my passion in everything that I do.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
