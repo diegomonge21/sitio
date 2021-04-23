@@ -56,7 +56,7 @@
 								  <span
 								     class="txt-rotate"
 								     data-period="2000"
-								     data-rotate='[ "Graphic & Motion Designer.", "Video Editor.", "Photographer."]'></span>
+								     data-rotate='[ "Graphic Designer.", "Motion Designer.", "Photographer."]'></span>
 								</h2>
 							</div>
             </div>
